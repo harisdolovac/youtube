@@ -1,0 +1,17 @@
+.Search-icon {
+  border: 3px solid black;
+  border-radius: 3px;
+  font-size: 40;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 10px 10px;
+  padding: 5px 30px 5px 20px;
+  background-color: cornflowerblue;
+}
+.Search-button :hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  cursor: pointer;
+  background-color: cornsilk;
+}
